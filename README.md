@@ -1,3 +1,2 @@
 # JAVA100_Study
-programming JAVA with Eclipse
-part1 - 5
+programming JAVA with Eclipse Part1 - 5
